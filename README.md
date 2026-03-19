@@ -30,7 +30,7 @@ Citizen Dashboard: Report issues and upvote existing ones
 Authority Dashboard: View issue statistics, monitor progress, and manage resolution
 
 Local Data Handling
-A local database is used to store and fetch issue data, including updates such as upvotes and status changes.
+A local database is used to store and fetch issue data, including updates such as upvotes and status change.
 
 🔵Tech Stack
 
